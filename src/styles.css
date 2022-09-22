@@ -1,0 +1,39 @@
+.homepage{
+    color:rebeccapurple;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 180px;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.example-icon {
+    padding: 0 14px;
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .mat-drawer-container {
+    background-color: white;
+}
+.mat-drawer {
+    background-color: whitesmoke;
+}
+.mat-elevation-z5 {
+    position: relative;
+    z-index: 2;
+}
+.mat-sidenav a:hover {
+    color: brown;
+}
+.banubutton {
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.banubutton:hover {
+ background-color: lightgreen;
+ color:royalblue;
+ font-size: medium;
+ font-weight: bold;
+}
